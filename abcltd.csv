@@ -1,0 +1,526 @@
+Country,State,City,Product,Sales Rep,Age,Units Sold,Revenue per cookie,Cost per cookie,Revenue,Cost,Profit,Date,Month Number,Month Name,Year
+Canada,Abia State,Aba,Chocolate Chip,John Mac,55,292,5,2,1460,584,876,02-01-06,2,February,2006
+Mexico,Adamawa State,Abakaliki,Chocolate Chip,Davis ren,37,974,5,2,4870,1948,2922,02-01-19,2,February,2019
+Canada,Akwa Ibom State,Abuja,Chocolate Chip,Karen Dove,50,2518,5,2,12590,5036,7554,06-01-10,6,June,2010
+Germany,Anambra State,Ado Ekiti,Chocolate Chip,Bayo Cum,45,1006,5,2,5030,2012,3018,06-01-15,6,June,2015
+Germany,Bauchi State,Akure,Chocolate Chip,Shola Wales,48,367,5,2,1835,734,1101,07-01-12,7,July,2012
+Mexico,Borno State,Asaba,Chocolate Chip,Alade Dren,39,883,5,2,4415,1766,2649,08-01-10,8,August,2010
+Mexico,Cross River State,Awka,Chocolate Chip,Fatai Maly,50,2472,5,2,12360,4944,7416,09-01-13,9,September,2013
+United States,Delta State,Bauchi,Chocolate Chip,Francis Dayo,31,1143,5,2,5715,2286,3429,10-01-07,10,October,2007
+Canada,Edo State,Benin City,Chocolate Chip,Idowu Johnson,24,1817,5,2,9085,3634,5451,12-01-13,12,December,2013
+Germany,Enugu State,Bida,Chocolate Chip,Abayo Tyler,24,1513,5,2,7565,3026,4539,12-01-12,12,December,2012
+France,Jigawa State,Buguma,Chocolate Chip,John Mac,55,3945,5,2,19725,7890,11835,01-01-03,1,January,2003
+France,Kaduna State,Calabar,Chocolate Chip,Davis ren,37,2296,5,2,11480,4592,6888,02-01-09,2,February,2009
+France,Kano State,Gombe,Chocolate Chip,Karen Dove,50,1030,5,2,5150,2060,3090,05-01-99,5,May,1999
+United States,Kebbi State,Gusau,Chocolate Chip,Bayo Cum,45,1514,5,2,7570,3028,4542,02-01-14,2,February,2014
+United States,Kwara State,Ibadan,Chocolate Chip,Shola Wales,48,4492.5,5,2,22462.5,8985,13477.5,04-01-09,4,April,2009
+United States,Lagos State,Ife,Chocolate Chip,Alade Dren,39,727,5,2,3635,1454,2181,06-01-99,6,June,1999
+France,mo State,Ikare,Chocolate Chip,Fatai Maly,50,787,5,2,3935,1574,2361,06-01-17,6,June,2017
+Mexico,Nasarawa State,Ikeja,Chocolate Chip,Francis Dayo,31,1823,5,2,9115,3646,5469,07-01-12,7,July,2012
+Germany,Niger State,Ikot Ekpene,Chocolate Chip,Idowu Johnson,24,747,5,2,3735,1494,2241,09-01-14,9,September,2014
+United States,Ogun State,Ilesa,Chocolate Chip,Abayo Tyler,24,2905,5,2,14525,5810,8715,11-01-15,11,November,2015
+France,Ondo State,Iseyin,Chocolate Chip,Davis ren,37,2155,5,2,10775,4310,6465,12-01-05,12,December,2005
+Canada,Osun State,Iwo,Chocolate Chip,Francis Dayo,31,2363,5,2,11815,4726,7089,02-01-15,2,February,2015
+France,Oyo State,Jalingo,Chocolate Chip,Francis Dayo,31,918,5,2,4590,1836,2754,05-01-15,5,May,2015
+Germany,Rivers State,Jos,Chocolate Chip,Karen Dove,50,1728,5,2,8640,3456,5184,05-01-02,5,May,2002
+United States,Abia State,Kano,Chocolate Chip,John Mac,55,1142,5,2,5710,2284,3426,06-01-01,6,June,2001
+Mexico,Adamawa State,Katsina,Chocolate Chip,Francis Dayo,31,662,5,2,3310,1324,1986,06-01-19,6,June,2019
+Canada,Akwa Ibom State,Lafia,Chocolate Chip,Fatai Maly,50,1295,5,2,6475,2590,3885,10-01-01,10,October,2001
+Canada,Anambra State,Lagos,Chocolate Chip,John Mac,55,1916,5,2,9580,3832,5748,12-01-10,12,December,2010
+Canada,Bauchi State,Maiduguri,Chocolate Chip,John Mac,55,2852,5,2,14260,5704,8556,12-01-99,12,December,1999
+Canada,Borno State,Makurdi,Chocolate Chip,Davis ren,37,2729,5,2,13645,5458,8187,12-01-06,12,December,2006
+France,Cross River State,Minna,Chocolate Chip,Karen Dove,50,1055,5,2,5275,2110,3165,12-01-03,12,December,2003
+Mexico,Delta State,Nnewi,Chocolate Chip,Bayo Cum,45,1084,5,2,5420,2168,3252,12-01-20,12,December,2020
+France,Edo State,Nsukka,Chocolate Chip,Shola Wales,48,2434.5,5,2,12172.5,4869,7303.5,01-01-07,1,January,2007
+Canada,Enugu State,Ogbomosho,Chocolate Chip,Alade Dren,39,1774,5,2,8870,3548,5322,03-01-07,3,March,2007
+France,Jigawa State,Okene,Chocolate Chip,Fatai Maly,50,1901,5,2,9505,3802,5703,06-01-19,6,June,2019
+Germany,Kaduna State,Ondo,Chocolate Chip,Francis Dayo,31,689,5,2,3445,1378,2067,06-01-10,6,June,2010
+Germany,Kano State,Onitsha,Chocolate Chip,Idowu Johnson,24,1570,5,2,7850,3140,4710,06-01-15,6,June,2015
+United States,Kebbi State,Osogbo,Chocolate Chip,Abayo Tyler,24,1369.5,5,2,6847.5,2739,4108.5,07-01-11,7,July,2011
+Canada,Kwara State,Owerri,Chocolate Chip,John Mac,55,2009,5,2,10045,4018,6027,10-01-15,10,October,2015
+France,Lagos State,Owo,Chocolate Chip,Davis ren,37,1287,5,2,6435,2574,3861,12-01-14,12,December,2014
+Germany,mo State,Oyo,Chocolate Chip,Karen Dove,50,1706,5,2,8530,3412,5118,12-01-07,12,December,2007
+Mexico,Nasarawa State,Aba,Chocolate Chip,Bayo Cum,45,2031,5,2,10155,4062,6093,10-01-07,10,October,2007
+Canada,Niger State,Abakaliki,Chocolate Chip,Shola Wales,48,4251,5,2,21255,8502,12753,01-01-18,1,January,2018
+Germany,Ogun State,Abuja,Chocolate Chip,Alade Dren,39,795,5,2,3975,1590,2385,03-01-20,3,March,2020
+Germany,Ondo State,Ado Ekiti,Chocolate Chip,Fatai Maly,50,1414.5,5,2,7072.5,2829,4243.5,04-01-20,4,April,2020
+United States,Osun State,Akure,Chocolate Chip,Francis Dayo,31,2918,5,2,14590,5836,8754,05-01-04,5,May,2004
+United States,Oyo State,Asaba,Chocolate Chip,Idowu Johnson,24,3450,5,2,17250,6900,10350,07-01-15,7,July,2015
+France,Rivers State,Awka,Chocolate Chip,Abayo Tyler,24,2988,5,2,14940,5976,8964,07-01-00,7,July,2000
+Canada,Abia State,Bauchi,Chocolate Chip,Davis ren,37,218,5,2,1090,436,654,09-01-03,9,September,2003
+Canada,Adamawa State,Benin City,Chocolate Chip,Francis Dayo,31,2074,5,2,10370,4148,6222,09-01-05,9,September,2005
+United States,Akwa Ibom State,Bida,Chocolate Chip,Francis Dayo,31,1056,5,2,5280,2112,3168,09-01-13,9,September,2013
+United States,Anambra State,Buguma,Chocolate Chip,Karen Dove,50,274,5,2,1370,548,822,12-01-00,12,December,2000
+Mexico,Bauchi State,Calabar,Chocolate Chip,John Mac,55,1138,5,2,5690,2276,3414,12-01-06,12,December,2006
+Germany,Borno State,Gombe,Chocolate Chip,Francis Dayo,31,1372,5,2,6860,2744,4116,01-01-16,1,January,2016
+Mexico,Cross River State,Gusau,Chocolate Chip,Fatai Maly,50,2689,5,2,13445,5378,8067,10-01-06,10,October,2006
+Canada,Delta State,Ibadan,Chocolate Chip,John Mac,55,2431,5,2,12155,4862,7293,12-01-04,12,December,2004
+France,Edo State,Ife,Chocolate Chip,John Mac,55,1303,5,2,6515,2606,3909,02-01-10,2,February,2010
+United States,Enugu State,Ikare,Chocolate Chip,Davis ren,37,2992,5,2,14960,5984,8976,03-01-13,3,March,2013
+France,Jigawa State,Ikeja,Chocolate Chip,Karen Dove,50,2385,5,2,11925,4770,7155,03-01-16,3,March,2016
+Mexico,Kaduna State,Ikot Ekpene,Chocolate Chip,Bayo Cum,45,1607,5,2,8035,3214,4821,04-01-09,4,April,2009
+United States,Kano State,Ilesa,Chocolate Chip,Shola Wales,48,2327,5,2,11635,4654,6981,05-01-02,5,May,2002
+United States,Kebbi State,Iseyin,Chocolate Chip,Alade Dren,39,991,5,2,4955,1982,2973,06-01-17,6,June,2017
+United States,Kwara State,Iwo,Chocolate Chip,Fatai Maly,50,602,5,2,3010,1204,1806,06-01-18,6,June,2018
+France,Lagos State,Jalingo,Chocolate Chip,Francis Dayo,31,2620,5,2,13100,5240,7860,09-01-04,9,September,2004
+United States,mo State,Jos,Chocolate Chip,Idowu Johnson,24,861,5,2,4305,1722,2583,10-01-12,10,October,2012
+United States,Nasarawa State,Kano,Chocolate Chip,Abayo Tyler,24,2663,5,2,13315,5326,7989,12-01-19,12,December,2019
+France,Niger State,Katsina,Chocolate Chip,John Mac,55,3801,5,2,19005,7602,11403,04-01-07,4,April,2007
+France,Ogun State,Lafia,Chocolate Chip,Davis ren,37,1496,5,2,7480,2992,4488,06-01-06,6,June,2006
+United States,Ondo State,Lagos,Chocolate Chip,Karen Dove,50,2198,5,2,10990,4396,6594,08-01-01,8,August,2001
+Germany,Osun State,Maiduguri,Chocolate Chip,Bayo Cum,45,1743,5,2,8715,3486,5229,08-01-99,8,August,1999
+United States,Oyo State,Makurdi,Chocolate Chip,Shola Wales,48,1153,5,2,5765,2306,3459,10-01-02,10,October,2002
+Canada,Rivers State,Minna,Chocolate Chip,Alade Dren,39,1702,5,2,8510,3404,5106,05-01-10,5,May,2010
+France,Abia State,Nnewi,Chocolate Chip,Fatai Maly,50,448,5,2,2240,896,1344,06-01-06,6,June,2006
+Germany,Adamawa State,Nsukka,Chocolate Chip,Francis Dayo,31,3513,5,2,17565,7026,10539,07-01-10,7,July,2010
+France,Akwa Ibom State,Ogbomosho,Chocolate Chip,Idowu Johnson,24,2101,5,2,10505,4202,6303,08-01-01,8,August,2001
+France,Anambra State,Okene,Chocolate Chip,Abayo Tyler,24,1535,5,2,7675,3070,4605,09-01-12,9,September,2012
+Canada,Bauchi State,Ondo,Chocolate Chip,Davis ren,37,257,5,2,1285,514,771,05-01-01,5,May,2001
+Mexico,Borno State,Onitsha,Chocolate Chip,Francis Dayo,31,1114,5,2,5570,2228,3342,03-01-10,3,March,2010
+Germany,Cross River State,Osogbo,Chocolate Chip,Francis Dayo,31,1259,5,2,6295,2518,3777,04-01-08,4,April,2008
+Germany,Delta State,Owerri,Chocolate Chip,Karen Dove,50,1095,5,2,5475,2190,3285,05-01-08,5,May,2008
+Germany,Edo State,Owo,Chocolate Chip,John Mac,55,1366,5,2,6830,2732,4098,06-01-14,6,June,2014
+Mexico,Enugu State,Oyo,Chocolate Chip,Francis Dayo,31,2460,5,2,12300,4920,7380,06-01-03,6,June,2003
+United States,Jigawa State,Aba,Chocolate Chip,Fatai Maly,50,678,5,2,3390,1356,2034,08-01-00,8,August,2000
+Germany,Kaduna State,Abakaliki,Chocolate Chip,John Mac,55,1598,5,2,7990,3196,4794,08-01-15,8,August,2015
+Germany,Kano State,Abuja,Chocolate Chip,John Mac,55,1934,5,2,9670,3868,5802,09-01-11,9,September,2011
+Mexico,Kebbi State,Ado Ekiti,Chocolate Chip,Davis ren,37,2993,5,2,14965,5986,8979,09-01-10,9,September,2010
+Mexico,Kwara State,Akure,Chocolate Chip,Karen Dove,50,1362,5,2,6810,2724,4086,12-01-11,12,December,2011
+Mexico,Lagos State,Asaba,Chocolate Chip,Bayo Cum,45,2565,5,2,12825,5130,7695,01-01-04,1,January,2004
+Mexico,mo State,Awka,Chocolate Chip,Shola Wales,48,2417,5,2,12085,4834,7251,01-01-14,1,January,2014
+United States,Nasarawa State,Bauchi,Chocolate Chip,Alade Dren,39,3675,5,2,18375,7350,11025,04-01-09,4,April,2009
+Canada,Niger State,Benin City,Chocolate Chip,Fatai Maly,50,1094,5,2,5470,2188,3282,06-01-03,6,June,2003
+France,Ogun State,Bida,Chocolate Chip,Francis Dayo,31,1227,5,2,6135,2454,3681,10-01-15,10,October,2015
+France,Ondo State,Buguma,Chocolate Chip,Idowu Johnson,24,1324,5,2,6620,2648,3972,11-01-14,11,November,2014
+United States,Osun State,Calabar,Chocolate Chip,Abayo Tyler,24,2797,5,2,13985,5594,8391,12-01-13,12,December,2013
+United States,Oyo State,Gombe,Chocolate Chip,John Mac,55,973,5,2,4865,1946,2919,03-01-03,3,March,2003
+Mexico,Rivers State,Gusau,Chocolate Chip,Davis ren,37,1038,5,2,5190,2076,3114,06-01-11,6,June,2011
+Germany,Abia State,Ibadan,Chocolate Chip,Karen Dove,50,360,5,2,1800,720,1080,10-01-01,10,October,2001
+France,Adamawa State,Ife,Chocolate Chip,Bayo Cum,45,1954,5,2,9770,3908,5862,03-01-01,3,March,2001
+Mexico,Akwa Ibom State,Ikare,Chocolate Chip,Shola Wales,48,591,5,2,2955,1182,1773,05-01-09,5,May,2009
+Germany,Anambra State,Ikeja,Chocolate Chip,Alade Dren,39,241,5,2,1205,482,723,10-01-99,10,October,1999
+France,Bauchi State,Ikot Ekpene,Chocolate Chip,Fatai Maly,50,2532,5,2,12660,5064,7596,04-01-18,4,April,2018
+Canada,Borno State,Ilesa,Chocolate Chip,Francis Dayo,31,873,5,2,4365,1746,2619,01-01-14,1,January,2014
+Mexico,Cross River State,Iseyin,Chocolate Chip,Idowu Johnson,24,1122,5,2,5610,2244,3366,03-01-13,3,March,2013
+Canada,Delta State,Iwo,Chocolate Chip,Abayo Tyler,24,2104.5,5,2,10522.5,4209,6313.5,07-01-00,7,July,2000
+Canada,Edo State,Jalingo,Chocolate Chip,Davis ren,37,4026,5,2,20130,8052,12078,07-01-08,7,July,2008
+France,Enugu State,Jos,Chocolate Chip,Francis Dayo,31,2425.5,5,2,12127.5,4851,7276.5,07-01-19,7,July,2019
+Canada,Jigawa State,Kano,Chocolate Chip,Francis Dayo,31,2394,5,2,11970,4788,7182,08-01-04,8,August,2004
+Mexico,Kaduna State,Katsina,Chocolate Chip,Karen Dove,50,1984,5,2,9920,3968,5952,08-01-16,8,August,2016
+France,Kano State,Lafia,Chocolate Chip,John Mac,55,2441,5,2,12205,4882,7323,10-01-00,10,October,2000
+Canada,Kebbi State,Lagos,Chocolate Chip,Francis Dayo,31,1366,5,2,6830,2732,4098,11-01-16,11,November,2016
+United States,Kwara State,Maiduguri,Chocolate Chip,Fatai Maly,50,3495,5,2,17475,6990,10485,01-01-12,1,January,2012
+Mexico,Lagos State,Makurdi,Chocolate Chip,John Mac,55,886,5,2,4430,1772,2658,06-01-06,6,June,2006
+Mexico,mo State,Minna,Chocolate Chip,John Mac,55,2156,5,2,10780,4312,6468,10-01-00,10,October,2000
+Mexico,Nasarawa State,Nnewi,Chocolate Chip,Davis ren,37,905,5,2,4525,1810,2715,10-01-17,10,October,2017
+France,Niger State,Nsukka,Chocolate Chip,Karen Dove,50,1594,5,2,7970,3188,4782,11-01-09,11,November,2009
+Germany,Ogun State,Ogbomosho,Chocolate Chip,Bayo Cum,45,1359,5,2,6795,2718,4077,11-01-19,11,November,2019
+Mexico,Ondo State,Okene,Chocolate Chip,Shola Wales,48,2150,5,2,10750,4300,6450,11-01-04,11,November,2004
+Mexico,Osun State,Ondo,Chocolate Chip,Alade Dren,39,1197,5,2,5985,2394,3591,11-01-20,11,November,2020
+Mexico,Oyo State,Onitsha,Chocolate Chip,Fatai Maly,50,1233,5,2,6165,2466,3699,12-01-00,12,December,2000
+Germany,Rivers State,Osogbo,Chocolate Chip,Francis Dayo,31,1531,5,2,7655,3062,4593,12-01-15,12,December,2015
+United States,Abia State,Owerri,Chocolate Chip,Idowu Johnson,24,1438.5,5,2,7192.5,2877,4315.5,01-01-09,1,January,2009
+Germany,Adamawa State,Owo,Chocolate Chip,Abayo Tyler,24,807,5,2,4035,1614,2421,01-01-20,1,January,2020
+United States,Akwa Ibom State,Oyo,Chocolate Chip,John Mac,55,2641,5,2,13205,5282,7923,02-01-12,2,February,2012
+Germany,Anambra State,Aba,Chocolate Chip,Davis ren,37,2708,5,2,13540,5416,8124,02-01-05,2,February,2005
+Canada,Bauchi State,Abakaliki,Chocolate Chip,Karen Dove,50,2632,5,2,13160,5264,7896,06-01-11,6,June,2011
+Canada,Borno State,Abuja,Chocolate Chip,Bayo Cum,45,1583,5,2,7915,3166,4749,06-01-00,6,June,2000
+Mexico,Cross River State,Ado Ekiti,Chocolate Chip,Shola Wales,48,571,5,2,2855,1142,1713,07-01-04,7,July,2004
+France,Delta State,Akure,Chocolate Chip,Alade Dren,39,2696,5,2,13480,5392,8088,08-01-08,8,August,2008
+Canada,Edo State,Asaba,Chocolate Chip,Fatai Maly,50,1565,5,2,7825,3130,4695,10-01-16,10,October,2016
+Canada,Enugu State,Awka,Chocolate Chip,Francis Dayo,31,1249,5,2,6245,2498,3747,10-01-99,10,October,1999
+Germany,Jigawa State,Bauchi,Chocolate Chip,Idowu Johnson,24,357,5,2,1785,714,1071,11-01-13,11,November,2013
+Germany,Kaduna State,Benin City,Chocolate Chip,Abayo Tyler,24,1013,5,2,5065,2026,3039,12-01-99,12,December,1999
+Germany,Kano State,Bida,Chocolate Chip,Davis ren,37,278,5,2,1390,556,834,02-01-12,2,February,2012
+Canada,Kebbi State,Buguma,Chocolate Chip,Francis Dayo,31,2428,5,2,12140,4856,7284,03-01-11,3,March,2011
+United States,Kwara State,Calabar,Chocolate Chip,Francis Dayo,31,1767,5,2,8835,3534,5301,09-01-06,9,September,2006
+France,Lagos State,Gombe,Chocolate Chip,Karen Dove,50,1393,5,2,6965,2786,4179,10-01-09,10,October,2009
+Mexico,mo State,Gusau,Chocolate Chip,John Mac,55,260,5,2,1300,520,780,02-01-07,2,February,2007
+United States,Nasarawa State,Ibadan,Chocolate Chip,Francis Dayo,31,2914,5,2,14570,5828,8742,10-01-05,10,October,2005
+France,Niger State,Ife,Chocolate Chip,Fatai Maly,50,1731,5,2,8655,3462,5193,10-01-03,10,October,2003
+Canada,Ogun State,Ikare,Chocolate Chip,John Mac,55,700,5,2,3500,1400,2100,11-01-05,11,November,2005
+United States,Ondo State,Ikeja,Chocolate Chip,John Mac,55,1177,5,2,5885,2354,3531,11-01-01,11,November,2001
+Germany,Osun State,Ikot Ekpene,Chocolate Chip,Davis ren,37,1158,5,2,5790,2316,3474,03-01-00,3,March,2000
+Canada,Oyo State,Ilesa,Chocolate Chip,Karen Dove,50,1614,5,2,8070,3228,4842,04-01-08,4,April,2008
+Mexico,Rivers State,Iseyin,Chocolate Chip,Bayo Cum,45,2535,5,2,12675,5070,7605,04-01-01,4,April,2001
+Mexico,Abia State,Iwo,Chocolate Chip,Shola Wales,48,2851,5,2,14255,5702,8553,05-01-14,5,May,2014
+Canada,Adamawa State,Jalingo,Chocolate Chip,Alade Dren,39,2559,5,2,12795,5118,7677,08-01-14,8,August,2014
+Germany,Akwa Ibom State,Jos,Chocolate Chip,Fatai Maly,50,1085,5,2,5425,2170,3255,10-01-01,10,October,2001
+Germany,Anambra State,Kano,Chocolate Chip,Francis Dayo,31,1175,5,2,5875,2350,3525,10-01-08,10,October,2008
+United States,Bauchi State,Katsina,Chocolate Chip,Idowu Johnson,24,914,5,2,4570,1828,2742,12-01-07,12,December,2007
+France,Borno State,Lafia,Chocolate Chip,Abayo Tyler,24,293,5,2,1465,586,879,12-01-11,12,December,2011
+Canada,Cross River State,Lagos,Chocolate Chip,John Mac,55,723,5,2,3615,1446,2169,04-01-09,4,April,2009
+Germany,Delta State,Maiduguri,Fortune Cookie,Davis ren,37,921,1,0.2,921,184.2,736.8,03-01-00,3,March,2000
+Canada,Edo State,Makurdi,Fortune Cookie,Karen Dove,50,2518,1,0.2,2518,503.6,2014.4,06-01-16,6,June,2016
+France,Enugu State,Minna,Fortune Cookie,Bayo Cum,45,1899,1,0.2,1899,379.8,1519.2,06-01-18,6,June,2018
+Germany,Jigawa State,Nnewi,Fortune Cookie,Shola Wales,48,1545,1,0.2,1545,309,1236,06-01-18,6,June,2018
+Mexico,Kaduna State,Nsukka,Fortune Cookie,Alade Dren,39,2470,1,0.2,2470,494,1976,06-01-10,6,June,2010
+Canada,Kano State,Ogbomosho,Fortune Cookie,Fatai Maly,50,2665.5,1,0.2,2665.5,533.1,2132.4,07-01-19,7,July,2019
+Mexico,Kebbi State,Okene,Fortune Cookie,Francis Dayo,31,958,1,0.2,958,191.6,766.4,08-01-14,8,August,2014
+Germany,Kwara State,Ondo,Fortune Cookie,Idowu Johnson,24,2146,1,0.2,2146,429.2,1716.8,09-01-13,9,September,2013
+United States,Lagos State,Onitsha,Fortune Cookie,Abayo Tyler,24,615,1,0.2,615,123,492,12-01-15,12,December,2015
+Mexico,mo State,Osogbo,Fortune Cookie,Davis ren,37,2214,1,0.2,2214,442.8,1771.2,03-01-06,3,March,2006
+United States,Nasarawa State,Owerri,Fortune Cookie,Francis Dayo,31,2301,1,0.2,2301,460.2,1840.8,04-01-13,4,April,2013
+France,Niger State,Owo,Fortune Cookie,Francis Dayo,31,1375.5,1,0.2,1375.5,275.1,1100.4,07-01-08,7,July,2008
+Canada,Ogun State,Oyo,Fortune Cookie,Karen Dove,50,1830,1,0.2,1830,366,1464,08-01-10,8,August,2010
+United States,Ondo State,Aba,Fortune Cookie,John Mac,55,1142,1,0.2,1142,228.4,913.6,06-01-99,6,June,1999
+United States,Osun State,Abakaliki,Fortune Cookie,Francis Dayo,31,1566,1,0.2,1566,313.2,1252.8,10-01-07,10,October,2007
+Mexico,Oyo State,Abuja,Fortune Cookie,Fatai Maly,50,690,1,0.2,690,138,552,11-01-07,11,November,2007
+Germany,Rivers State,Ado Ekiti,Fortune Cookie,John Mac,55,1958,1,0.2,1958,391.6,1566.4,02-01-12,2,February,2012
+France,Abia State,Akure,Fortune Cookie,John Mac,55,1901,1,0.2,1901,380.2,1520.8,06-01-16,6,June,2016
+France,Adamawa State,Asaba,Fortune Cookie,Davis ren,37,544,1,0.2,544,108.8,435.2,09-01-18,9,September,2018
+France,Akwa Ibom State,Awka,Fortune Cookie,Karen Dove,50,1287,1,0.2,1287,257.4,1029.6,12-01-06,12,December,2006
+Germany,Anambra State,Bauchi,Fortune Cookie,Bayo Cum,45,1706,1,0.2,1706,341.2,1364.8,12-01-15,12,December,2015
+Mexico,Bauchi State,Benin City,Fortune Cookie,Shola Wales,48,2031,1,0.2,2031,406.2,1624.8,10-01-10,10,October,2010
+Canada,Borno State,Bida,Fortune Cookie,Alade Dren,39,1967,1,0.2,1967,393.4,1573.6,03-01-17,3,March,2017
+Germany,Cross River State,Buguma,Fortune Cookie,Fatai Maly,50,1859,1,0.2,1859,371.8,1487.2,08-01-02,8,August,2002
+Germany,Delta State,Calabar,Fortune Cookie,Francis Dayo,31,2021,1,0.2,2021,404.2,1616.8,10-01-16,10,October,2016
+Mexico,Edo State,Gombe,Fortune Cookie,Idowu Johnson,24,1138,1,0.2,1138,227.6,910.4,12-01-14,12,December,2014
+France,Enugu State,Gusau,Fortune Cookie,Abayo Tyler,24,1384.5,1,0.2,1384.5,276.9,1107.6,01-01-00,1,January,2000
+United States,Jigawa State,Ibadan,Fortune Cookie,John Mac,55,3627,1,0.2,3627,725.4,2901.6,07-01-17,7,July,2017
+Germany,Kaduna State,Ife,Fortune Cookie,Davis ren,37,2342,1,0.2,2342,468.4,1873.6,11-01-02,11,November,2002
+Mexico,Kano State,Ikare,Fortune Cookie,Karen Dove,50,980,1,0.2,980,196,784,04-01-08,4,April,2008
+Germany,Kebbi State,Ikeja,Fortune Cookie,Bayo Cum,45,1460,1,0.2,1460,292,1168,05-01-17,5,May,2017
+United States,Kwara State,Ikot Ekpene,Fortune Cookie,Shola Wales,48,2723,1,0.2,2723,544.6,2178.4,11-01-15,11,November,2015
+Mexico,Lagos State,Ilesa,Fortune Cookie,Alade Dren,39,2340,1,0.2,2340,468,1872,01-01-16,1,January,2016
+France,mo State,Iseyin,Fortune Cookie,Fatai Maly,50,2342,1,0.2,2342,468.4,1873.6,11-01-13,11,November,2013
+France,Nasarawa State,Iwo,Fortune Cookie,Francis Dayo,31,1976,1,0.2,1976,395.2,1580.8,10-01-10,10,October,2010
+France,Niger State,Jalingo,Fortune Cookie,Idowu Johnson,24,2181,1,0.2,2181,436.2,1744.8,10-01-15,10,October,2015
+Canada,Ogun State,Jos,Fortune Cookie,Abayo Tyler,24,488,1,0.2,488,97.6,390.4,02-01-05,2,February,2005
+United States,Ondo State,Kano,Fortune Cookie,Davis ren,37,1282,1,0.2,1282,256.4,1025.6,06-01-12,6,June,2012
+France,Osun State,Katsina,Fortune Cookie,Francis Dayo,31,2501,1,0.2,2501,500.2,2000.8,03-01-14,3,March,2014
+Canada,Oyo State,Lafia,Fortune Cookie,Francis Dayo,31,708,1,0.2,708,141.6,566.4,06-01-15,6,June,2015
+Germany,Rivers State,Lagos,Fortune Cookie,Karen Dove,50,645,1,0.2,645,129,516,07-01-16,7,July,2016
+France,Abia State,Maiduguri,Fortune Cookie,John Mac,55,1562,1,0.2,1562,312.4,1249.6,08-01-10,8,August,2010
+Germany,Adamawa State,Makurdi,Fortune Cookie,Francis Dayo,31,711,1,0.2,711,142.2,568.8,12-01-03,12,December,2003
+Canada,Akwa Ibom State,Minna,Fortune Cookie,Fatai Maly,50,3802.5,1,0.2,3802.5,760.5,3042,04-01-08,4,April,2008
+France,Anambra State,Nnewi,Fortune Cookie,John Mac,55,1666,1,0.2,1666,333.2,1332.8,05-01-14,5,May,2014
+Canada,Bauchi State,Nsukka,Fortune Cookie,John Mac,55,2321,1,0.2,2321,464.2,1856.8,11-01-18,11,November,2018
+United States,Borno State,Ogbomosho,Fortune Cookie,Davis ren,37,2797,1,0.2,2797,559.4,2237.6,12-01-99,12,December,1999
+United States,Cross River State,Okene,Fortune Cookie,Karen Dove,50,2328,1,0.2,2328,465.6,1862.4,09-01-05,9,September,2005
+United States,Delta State,Ondo,Fortune Cookie,Bayo Cum,45,2313,1,0.2,2313,462.6,1850.4,05-01-17,5,May,2017
+France,Edo State,Onitsha,Fortune Cookie,Shola Wales,48,2072,1,0.2,2072,414.4,1657.6,12-01-18,12,December,2018
+Germany,Enugu State,Osogbo,Fortune Cookie,Alade Dren,39,766,1,0.2,766,153.2,612.8,01-01-01,1,January,2001
+Mexico,Jigawa State,Owerri,Fortune Cookie,Fatai Maly,50,2157,1,0.2,2157,431.4,1725.6,12-01-08,12,December,2008
+United States,Kaduna State,Owo,Fortune Cookie,Francis Dayo,31,677,1,0.2,677,135.4,541.6,03-01-15,3,March,2015
+France,Kano State,Oyo,Fortune Cookie,Idowu Johnson,24,1773,1,0.2,1773,354.6,1418.4,04-01-03,4,April,2003
+Mexico,Kebbi State,Aba,Fortune Cookie,Abayo Tyler,24,2420,1,0.2,2420,484,1936,09-01-07,9,September,2007
+Canada,Kwara State,Abakaliki,Fortune Cookie,John Mac,55,2734,1,0.2,2734,546.8,2187.2,10-01-04,10,October,2004
+Mexico,Lagos State,Abuja,Fortune Cookie,Davis ren,37,2661,1,0.2,2661,532.2,2128.8,05-01-17,5,May,2017
+United States,mo State,Ado Ekiti,Fortune Cookie,Karen Dove,50,982.5,1,0.2,982.5,196.5,786,01-01-06,1,January,2006
+United States,Nasarawa State,Akure,Fortune Cookie,Bayo Cum,45,1298,1,0.2,1298,259.6,1038.4,02-01-18,2,February,2018
+Mexico,Niger State,Asaba,Fortune Cookie,Shola Wales,48,604,1,0.2,604,120.8,483.2,06-01-14,6,June,2014
+Mexico,Ogun State,Awka,Fortune Cookie,Alade Dren,39,2255,1,0.2,2255,451,1804,07-01-08,7,July,2008
+Canada,Ondo State,Bauchi,Fortune Cookie,Fatai Maly,50,1249,1,0.2,1249,249.8,999.2,10-01-16,10,October,2016
+France,Osun State,Benin City,Fortune Cookie,Francis Dayo,31,293,1,0.2,293,58.6,234.4,02-01-17,2,February,2017
+Canada,Oyo State,Bida,Fortune Cookie,Idowu Johnson,24,2227.5,1,0.2,2227.5,445.5,1782,01-01-17,1,January,2017
+Germany,Rivers State,Buguma,Fortune Cookie,Abayo Tyler,24,1199,1,0.2,1199,239.8,959.2,04-01-18,4,April,2018
+Canada,Abia State,Calabar,Fortune Cookie,Davis ren,37,200,1,0.2,200,40,160,05-01-19,5,May,2019
+Canada,Adamawa State,Gombe,Fortune Cookie,Francis Dayo,31,388,1,0.2,388,77.6,310.4,09-01-04,9,September,2004
+Canada,Akwa Ibom State,Gusau,Fortune Cookie,Francis Dayo,31,2300,1,0.2,2300,460,1840,12-01-10,12,December,2010
+Mexico,Anambra State,Ibadan,Fortune Cookie,Karen Dove,50,546,1,0.2,546,109.2,436.8,10-01-17,10,October,2017
+Mexico,Bauchi State,Ife,Fortune Cookie,John Mac,55,1368,1,0.2,1368,273.6,1094.4,02-01-08,2,February,2008
+France,Borno State,Ikare,Oatmeal Raisin,Francis Dayo,31,2750,5,2.2,13750,6050,7700,02-01-14,2,February,2014
+United States,Cross River State,Ikeja,Oatmeal Raisin,Fatai Maly,50,1953,5,2.2,9765,4296.6,5468.4,04-01-03,4,April,2003
+Germany,Delta State,Ikot Ekpene,Oatmeal Raisin,John Mac,55,4219.5,5,2.2,21097.5,9282.9,11814.6,04-01-08,4,April,2008
+France,Edo State,Ilesa,Oatmeal Raisin,John Mac,55,1899,5,2.2,9495,4177.8,5317.2,06-01-16,6,June,2016
+Germany,Enugu State,Iseyin,Oatmeal Raisin,Davis ren,37,1686,5,2.2,8430,3709.2,4720.8,07-01-15,7,July,2015
+United States,Jigawa State,Iwo,Oatmeal Raisin,Karen Dove,50,2141,5,2.2,10705,4710.2,5994.8,08-01-15,8,August,2015
+United States,Kaduna State,Jalingo,Oatmeal Raisin,Bayo Cum,45,1143,5,2.2,5715,2514.6,3200.4,10-01-13,10,October,2013
+United States,Kano State,Jos,Oatmeal Raisin,Shola Wales,48,615,5,2.2,3075,1353,1722,12-01-15,12,December,2015
+Germany,Kebbi State,Kano,Oatmeal Raisin,Alade Dren,39,259,5,2.2,1295,569.8,725.2,03-01-09,3,March,2009
+Mexico,Kwara State,Katsina,Oatmeal Raisin,Fatai Maly,50,1101,5,2.2,5505,2422.2,3082.8,03-01-04,3,March,2004
+Germany,Lagos State,Lafia,Oatmeal Raisin,Francis Dayo,31,2276,5,2.2,11380,5007.2,6372.8,05-01-11,5,May,2011
+United States,mo State,Lagos,Oatmeal Raisin,Idowu Johnson,24,1236,5,2.2,6180,2719.2,3460.8,11-01-20,11,November,2020
+France,Nasarawa State,Maiduguri,Oatmeal Raisin,Abayo Tyler,24,941,5,2.2,4705,2070.2,2634.8,11-01-11,11,November,2011
+Canada,Niger State,Makurdi,Oatmeal Raisin,John Mac,55,1916,5,2.2,9580,4215.2,5364.8,12-01-17,12,December,2017
+Mexico,Ogun State,Minna,Oatmeal Raisin,Davis ren,37,1865,5,2.2,9325,4103,5222,02-01-20,2,February,2020
+Mexico,Ondo State,Nnewi,Oatmeal Raisin,Karen Dove,50,1074,5,2.2,5370,2362.8,3007.2,04-01-19,4,April,2019
+Germany,Osun State,Nsukka,Oatmeal Raisin,Bayo Cum,45,1907,5,2.2,9535,4195.4,5339.6,09-01-05,9,September,2005
+Mexico,Oyo State,Ogbomosho,Oatmeal Raisin,Shola Wales,48,1683,5,2.2,8415,3702.6,4712.4,07-01-99,7,July,1999
+Mexico,Rivers State,Okene,Oatmeal Raisin,Alade Dren,39,1123,5,2.2,5615,2470.6,3144.4,08-01-19,8,August,2019
+Germany,Abia State,Ondo,Oatmeal Raisin,Fatai Maly,50,1350,5,2.2,6750,2970,3780,02-01-19,2,February,2019
+Canada,Adamawa State,Onitsha,Oatmeal Raisin,Francis Dayo,31,552,5,2.2,2760,1214.4,1545.6,08-01-08,8,August,2008
+Germany,Akwa Ibom State,Osogbo,Oatmeal Raisin,Idowu Johnson,24,1250,5,2.2,6250,2750,3500,12-01-01,12,December,2001
+France,Anambra State,Owerri,Oatmeal Raisin,Abayo Tyler,24,1987.5,5,2.2,9937.5,4372.5,5565,01-01-00,1,January,2000
+Mexico,Bauchi State,Owo,Oatmeal Raisin,Davis ren,37,1679,5,2.2,8395,3693.8,4701.2,09-01-16,9,September,2016
+Canada,Borno State,Oyo,Oatmeal Raisin,Francis Dayo,31,1135,5,2.2,5675,2497,3178,06-01-08,6,June,2008
+Canada,Cross River State,Aba,Oatmeal Raisin,Francis Dayo,31,1645,5,2.2,8225,3619,4606,05-01-08,5,May,2008
+France,Delta State,Abakaliki,Oatmeal Raisin,Karen Dove,50,2876,5,2.2,14380,6327.2,8052.8,09-01-16,9,September,2016
+Canada,Edo State,Abuja,Oatmeal Raisin,John Mac,55,1118,5,2.2,5590,2459.6,3130.4,11-01-13,11,November,2013
+United States,Enugu State,Ado Ekiti,Oatmeal Raisin,Francis Dayo,31,1372,5,2.2,6860,3018.4,3841.6,12-01-13,12,December,2013
+United States,Jigawa State,Akure,Oatmeal Raisin,Fatai Maly,50,1282,5,2.2,6410,2820.4,3589.6,06-01-15,6,June,2015
+Canada,Kaduna State,Asaba,Oatmeal Raisin,John Mac,55,708,5,2.2,3540,1557.6,1982.4,06-01-20,6,June,2020
+United States,Kano State,Awka,Oatmeal Raisin,John Mac,55,2907,5,2.2,14535,6395.4,8139.6,06-01-99,6,June,1999
+Germany,Kebbi State,Bauchi,Oatmeal Raisin,Davis ren,37,1366,5,2.2,6830,3005.2,3824.8,06-01-03,6,June,2003
+Mexico,Kwara State,Benin City,Oatmeal Raisin,Karen Dove,50,2460,5,2.2,12300,5412,6888,06-01-00,6,June,2000
+Germany,Lagos State,Bida,Oatmeal Raisin,Bayo Cum,45,1520,5,2.2,7600,3344,4256,11-01-18,11,November,2018
+Germany,mo State,Buguma,Oatmeal Raisin,Shola Wales,48,711,5,2.2,3555,1564.2,1990.8,12-01-01,12,December,2001
+Mexico,Nasarawa State,Calabar,Oatmeal Raisin,Alade Dren,39,635,5,2.2,3175,1397,1778,12-01-99,12,December,1999
+United States,Niger State,Gombe,Oatmeal Raisin,Fatai Maly,50,2071,5,2.2,10355,4556.2,5798.8,09-01-16,9,September,2016
+Canada,Ogun State,Gusau,Oatmeal Raisin,Francis Dayo,31,1269,5,2.2,6345,2791.8,3553.2,10-01-11,10,October,2011
+Mexico,Ondo State,Ibadan,Oatmeal Raisin,Idowu Johnson,24,1694,5,2.2,8470,3726.8,4743.2,11-01-02,11,November,2002
+Mexico,Osun State,Ife,Oatmeal Raisin,Abayo Tyler,24,1038,5,2.2,5190,2283.6,2906.4,06-01-17,6,June,2017
+Canada,Oyo State,Ikare,Oatmeal Raisin,John Mac,55,1630.5,5,2.2,8152.5,3587.1,4565.4,07-01-12,7,July,2012
+United States,Rivers State,Ikeja,Oatmeal Raisin,Davis ren,37,579,5,2.2,2895,1273.8,1621.2,01-01-07,1,January,2007
+Canada,Abia State,Ikot Ekpene,Oatmeal Raisin,Karen Dove,50,2240,5,2.2,11200,4928,6272,02-01-19,2,February,2019
+United States,Adamawa State,Ilesa,Oatmeal Raisin,Bayo Cum,45,2993,5,2.2,14965,6584.6,8380.4,03-01-02,3,March,2002
+Canada,Akwa Ibom State,Iseyin,Oatmeal Raisin,Shola Wales,48,3520.5,5,2.2,17602.5,7745.1,9857.4,04-01-99,4,April,1999
+Mexico,Anambra State,Iwo,Oatmeal Raisin,Alade Dren,39,2039,5,2.2,10195,4485.8,5709.2,05-01-15,5,May,2015
+Germany,Bauchi State,Jalingo,Oatmeal Raisin,Fatai Maly,50,2574,5,2.2,12870,5662.8,7207.2,08-01-04,8,August,2004
+Canada,Borno State,Jos,Oatmeal Raisin,Francis Dayo,31,707,5,2.2,3535,1555.4,1979.6,09-01-13,9,September,2013
+France,Cross River State,Kano,Oatmeal Raisin,Idowu Johnson,24,2072,5,2.2,10360,4558.4,5801.6,12-01-16,12,December,2016
+France,Delta State,Katsina,Oatmeal Raisin,Abayo Tyler,24,853,5,2.2,4265,1876.6,2388.4,12-01-05,12,December,2005
+United States,Edo State,Lafia,Oatmeal Raisin,Davis ren,37,3199.5,5,2.2,15997.5,7038.9,8958.6,07-01-06,7,July,2006
+Germany,Enugu State,Lagos,Oatmeal Raisin,Francis Dayo,31,472,5,2.2,2360,1038.4,1321.6,10-01-00,10,October,2000
+Germany,Jigawa State,Maiduguri,Oatmeal Raisin,Francis Dayo,31,3165,5,2.2,15825,6963,8862,01-01-00,1,January,2000
+Mexico,Kaduna State,Makurdi,Oatmeal Raisin,Karen Dove,50,2629,5,2.2,13145,5783.8,7361.2,01-01-03,1,January,2003
+France,Kano State,Minna,Oatmeal Raisin,John Mac,55,1433,5,2.2,7165,3152.6,4012.4,05-01-14,5,May,2014
+Mexico,Kebbi State,Nnewi,Oatmeal Raisin,Francis Dayo,31,2157,5,2.2,10785,4745.4,6039.6,12-01-19,12,December,2019
+United States,Kwara State,Nsukka,Oatmeal Raisin,Fatai Maly,50,270,5,2.2,1350,594,756,02-01-07,2,February,2007
+France,Lagos State,Ogbomosho,Oatmeal Raisin,John Mac,55,3421.5,5,2.2,17107.5,7527.3,9580.2,07-01-16,7,July,2016
+Canada,mo State,Okene,Oatmeal Raisin,John Mac,55,2734,5,2.2,13670,6014.8,7655.2,10-01-00,10,October,2000
+Canada,Nasarawa State,Ondo,Oatmeal Raisin,Davis ren,37,1659,5,2.2,8295,3649.8,4645.2,01-01-00,1,January,2000
+France,Niger State,Onitsha,Oatmeal Raisin,Karen Dove,50,1190,5,2.2,5950,2618,3332,06-01-08,6,June,2008
+Mexico,Ogun State,Osogbo,Oatmeal Raisin,Bayo Cum,45,410,5,2.2,2050,902,1148,10-01-14,10,October,2014
+France,Ondo State,Owerri,Oatmeal Raisin,Shola Wales,48,1393,5,2.2,6965,3064.6,3900.4,10-01-15,10,October,2015
+Canada,Osun State,Owo,Oatmeal Raisin,Alade Dren,39,888,5,2.2,4440,1953.6,2486.4,03-01-99,3,March,1999
+United States,Oyo State,Oyo,Oatmeal Raisin,Fatai Maly,50,2844,5,2.2,14220,6256.8,7963.2,05-01-19,5,May,2019
+France,Rivers State,Aba,Oatmeal Raisin,Francis Dayo,31,2475,5,2.2,12375,5445,6930,08-01-07,8,August,2007
+United States,Abia State,Abakaliki,Oatmeal Raisin,Idowu Johnson,24,2914,5,2.2,14570,6410.8,8159.2,10-01-13,10,October,2013
+France,Adamawa State,Abuja,Oatmeal Raisin,Abayo Tyler,24,1731,5,2.2,8655,3808.2,4846.8,10-01-15,10,October,2015
+France,Akwa Ibom State,Ado Ekiti,Oatmeal Raisin,John Mac,55,2475,5,2.2,12375,5445,6930,03-01-19,3,March,2019
+Mexico,Anambra State,Akure,Oatmeal Raisin,Davis ren,37,546,5,2.2,2730,1201.2,1528.8,10-01-10,10,October,2010
+Canada,Bauchi State,Asaba,Snickerdoodle,Karen Dove,50,1618.5,4,1.5,6474,2427.75,4046.25,01-01-02,1,January,2002
+Germany,Borno State,Awka,Snickerdoodle,Bayo Cum,45,1321,4,1.5,5284,1981.5,3302.5,01-01-11,1,January,2011
+France,Cross River State,Bauchi,Snickerdoodle,Shola Wales,48,2178,4,1.5,8712,3267,5445,06-01-20,6,June,2020
+Germany,Delta State,Benin City,Snickerdoodle,Alade Dren,39,888,4,1.5,3552,1332,2220,06-01-16,6,June,2016
+Mexico,Edo State,Bida,Snickerdoodle,Fatai Maly,50,2470,4,1.5,9880,3705,6175,06-01-00,6,June,2000
+Germany,Enugu State,Buguma,Snickerdoodle,Francis Dayo,31,1513,4,1.5,6052,2269.5,3782.5,12-01-08,12,December,2008
+United States,Jigawa State,Calabar,Snickerdoodle,Idowu Johnson,24,1858,4,1.5,7432,2787,4645,02-01-04,2,February,2004
+Mexico,Kaduna State,Gombe,Snickerdoodle,Abayo Tyler,24,1210,4,1.5,4840,1815,3025,03-01-14,3,March,2014
+United States,Kano State,Gusau,Snickerdoodle,Davis ren,37,2529,4,1.5,10116,3793.5,6322.5,07-01-11,7,July,2011
+Canada,Kebbi State,Ibadan,Snickerdoodle,Francis Dayo,31,1445,4,1.5,5780,2167.5,3612.5,09-01-17,9,September,2017
+France,Kwara State,Ife,Snickerdoodle,Francis Dayo,31,2671,4,1.5,10684,4006.5,6677.5,09-01-16,9,September,2016
+Mexico,Lagos State,Ikare,Snickerdoodle,Karen Dove,50,1397,4,1.5,5588,2095.5,3492.5,10-01-09,10,October,2009
+France,mo State,Ikeja,Snickerdoodle,John Mac,55,2155,4,1.5,8620,3232.5,5387.5,12-01-14,12,December,2014
+Canada,Nasarawa State,Ikot Ekpene,Snickerdoodle,Francis Dayo,31,742.5,4,1.5,2970,1113.75,1856.25,04-01-11,4,April,2011
+Canada,Niger State,Ilesa,Snickerdoodle,Fatai Maly,50,1295,4,1.5,5180,1942.5,3237.5,10-01-11,10,October,2011
+Canada,Ogun State,Iseyin,Snickerdoodle,John Mac,55,2852,4,1.5,11408,4278,7130,12-01-09,12,December,2009
+France,Ondo State,Iwo,Snickerdoodle,John Mac,55,4243.5,4,1.5,16974,6365.25,10608.75,04-01-20,4,April,2020
+Germany,Osun State,Jalingo,Snickerdoodle,Davis ren,37,2580,4,1.5,10320,3870,6450,04-01-20,4,April,2020
+Germany,Oyo State,Jos,Snickerdoodle,Karen Dove,50,689,4,1.5,2756,1033.5,1722.5,06-01-14,6,June,2014
+United States,Rivers State,Kano,Snickerdoodle,Bayo Cum,45,1947,4,1.5,7788,2920.5,4867.5,09-01-12,9,September,2012
+Canada,Abia State,Katsina,Snickerdoodle,Shola Wales,48,831,4,1.5,3324,1246.5,2077.5,05-01-04,5,May,2004
+Germany,Adamawa State,Lafia,Snickerdoodle,Alade Dren,39,2021,4,1.5,8084,3031.5,5052.5,10-01-13,10,October,2013
+United States,Akwa Ibom State,Lagos,Snickerdoodle,Fatai Maly,50,274,4,1.5,1096,411,685,12-01-13,12,December,2013
+France,Anambra State,Maiduguri,Snickerdoodle,Francis Dayo,31,1865,4,1.5,7460,2797.5,4662.5,02-01-14,2,February,2014
+Germany,Bauchi State,Makurdi,Snickerdoodle,Idowu Johnson,24,1116,4,1.5,4464,1674,2790,02-01-18,2,February,2018
+France,Borno State,Minna,Snickerdoodle,Abayo Tyler,24,1563,4,1.5,6252,2344.5,3907.5,05-01-11,5,May,2011
+United States,Cross River State,Nnewi,Snickerdoodle,John Mac,55,991,4,1.5,3964,1486.5,2477.5,06-01-14,6,June,2014
+Mexico,Delta State,Nsukka,Snickerdoodle,Davis ren,37,2791,4,1.5,11164,4186.5,6977.5,11-01-03,11,November,2003
+United States,Edo State,Ogbomosho,Snickerdoodle,Karen Dove,50,570,4,1.5,2280,855,1425,12-01-08,12,December,2008
+France,Enugu State,Okene,Snickerdoodle,Bayo Cum,45,2487,4,1.5,9948,3730.5,6217.5,12-01-05,12,December,2005
+United States,Jigawa State,Ondo,Snickerdoodle,Shola Wales,48,1117.5,4,1.5,4470,1676.25,2793.75,01-01-99,1,January,1999
+Canada,Kaduna State,Onitsha,Snickerdoodle,Alade Dren,39,2844,4,1.5,11376,4266,7110,06-01-00,6,June,2000
+Mexico,Kano State,Osogbo,Snickerdoodle,Fatai Maly,50,562,4,1.5,2248,843,1405,09-01-13,9,September,2013
+United States,Kebbi State,Owerri,Snickerdoodle,Francis Dayo,31,2030,4,1.5,8120,3045,5075,11-01-07,11,November,2007
+Mexico,Kwara State,Owo,Snickerdoodle,Idowu Johnson,24,727,4,1.5,2908,1090.5,1817.5,02-01-00,2,February,2000
+Canada,Lagos State,Oyo,Snickerdoodle,Abayo Tyler,24,1884,4,1.5,7536,2826,4710,08-01-05,8,August,2005
+United States,mo State,Aba,Snickerdoodle,Davis ren,37,1761,4,1.5,7044,2641.5,4402.5,03-01-19,3,March,2019
+France,Nasarawa State,Abakaliki,Snickerdoodle,Francis Dayo,31,448,4,1.5,1792,672,1120,06-01-16,6,June,2016
+France,Niger State,Abuja,Snickerdoodle,Francis Dayo,31,2181,4,1.5,8724,3271.5,5452.5,10-01-07,10,October,2007
+Mexico,Ogun State,Ado Ekiti,Snickerdoodle,Karen Dove,50,1540,4,1.5,6160,2310,3850,08-01-17,8,August,2017
+France,Ondo State,Akure,Snickerdoodle,John Mac,55,490,4,1.5,1960,735,1225,11-01-18,11,November,2018
+Mexico,Osun State,Asaba,Snickerdoodle,Francis Dayo,31,1362,4,1.5,5448,2043,3405,12-01-04,12,December,2004
+Canada,Oyo State,Awka,Snickerdoodle,Fatai Maly,50,1094,4,1.5,4376,1641,2735,06-01-04,6,June,2004
+Germany,Rivers State,Bauchi,Snickerdoodle,John Mac,55,663,4,1.5,2652,994.5,1657.5,05-01-12,5,May,2012
+Canada,Abia State,Benin City,Snickerdoodle,John Mac,55,819,4,1.5,3276,1228.5,2047.5,07-01-14,7,July,2014
+Germany,Adamawa State,Bida,Snickerdoodle,Davis ren,37,1580,4,1.5,6320,2370,3950,09-01-15,9,September,2015
+Mexico,Akwa Ibom State,Buguma,Snickerdoodle,Karen Dove,50,521,4,1.5,2084,781.5,1302.5,12-01-01,12,December,2001
+United States,Anambra State,Calabar,Snickerdoodle,Bayo Cum,45,3445.5,4,1.5,13782,5168.25,8613.75,04-01-01,4,April,2001
+Canada,Bauchi State,Gombe,Snickerdoodle,Shola Wales,48,1937,4,1.5,7748,2905.5,4842.5,02-01-11,2,February,2011
+Germany,Borno State,Gusau,Snickerdoodle,Alade Dren,39,792,4,1.5,3168,1188,1980,03-01-14,3,March,2014
+Germany,Cross River State,Ibadan,Snickerdoodle,Fatai Maly,50,2811,4,1.5,11244,4216.5,7027.5,07-01-05,7,July,2005
+France,Delta State,Ife,Snickerdoodle,Francis Dayo,31,2441,4,1.5,9764,3661.5,6102.5,10-01-15,10,October,2015
+Mexico,Edo State,Ikare,Snickerdoodle,Idowu Johnson,24,886,4,1.5,3544,1329,2215,06-01-99,6,June,1999
+Mexico,Enugu State,Ikeja,Snickerdoodle,Abayo Tyler,24,2156,4,1.5,8624,3234,5390,10-01-08,10,October,2008
+Canada,Jigawa State,Ikot Ekpene,Snickerdoodle,John Mac,55,2689,4,1.5,10756,4033.5,6722.5,11-01-02,11,November,2002
+France,Kaduna State,Ilesa,Snickerdoodle,Davis ren,37,2521.5,4,1.5,10086,3782.25,6303.75,01-01-04,1,January,2004
+United States,Kano State,Iseyin,Snickerdoodle,Karen Dove,50,2567,4,1.5,10268,3850.5,6417.5,06-01-13,6,June,2013
+Canada,Kebbi State,Iwo,Snickerdoodle,Bayo Cum,45,923,4,1.5,3692,1384.5,2307.5,03-01-99,3,March,1999
+France,Kwara State,Jalingo,Snickerdoodle,Shola Wales,48,1790,4,1.5,7160,2685,4475,03-01-11,3,March,2011
+Mexico,Lagos State,Jos,Snickerdoodle,Alade Dren,39,2579,4,1.5,10316,3868.5,6447.5,04-01-11,4,April,2011
+United States,mo State,Kano,Snickerdoodle,Fatai Maly,50,1743,4,1.5,6972,2614.5,4357.5,05-01-02,5,May,2002
+Germany,Nasarawa State,Katsina,Snickerdoodle,Francis Dayo,31,280,4,1.5,1120,420,700,12-01-02,12,December,2002
+Mexico,Niger State,Lafia,Snickerdoodle,Idowu Johnson,24,801,4,1.5,3204,1201.5,2002.5,07-01-20,7,July,2020
+Canada,Ogun State,Lagos,Snickerdoodle,Abayo Tyler,24,1496,4,1.5,5984,2244,3740,10-01-02,10,October,2002
+United States,Ondo State,Maiduguri,Snickerdoodle,Davis ren,37,1010,4,1.5,4040,1515,2525,10-01-00,10,October,2000
+Germany,Osun State,Makurdi,Snickerdoodle,Francis Dayo,31,1513,4,1.5,6052,2269.5,3782.5,11-01-05,11,November,2005
+Canada,Oyo State,Minna,Snickerdoodle,Francis Dayo,31,2300,4,1.5,9200,3450,5750,12-01-16,12,December,2016
+France,Rivers State,Nnewi,Snickerdoodle,Karen Dove,50,1174,4,1.5,4696,1761,2935,08-01-19,8,August,2019
+Germany,Abia State,Nsukka,Snickerdoodle,John Mac,55,2767,4,1.5,11068,4150.5,6917.5,08-01-14,8,August,2014
+Germany,Adamawa State,Ogbomosho,Snickerdoodle,Francis Dayo,31,1085,4,1.5,4340,1627.5,2712.5,10-01-05,10,October,2005
+Canada,Akwa Ibom State,Okene,Sugar,Fatai Maly,50,2001,3,1.25,6003,2501.25,3501.75,02-01-03,2,February,2003
+Germany,Anambra State,Ondo,Sugar,John Mac,55,2838,3,1.25,8514,3547.5,4966.5,04-01-17,4,April,2017
+France,Bauchi State,Onitsha,Sugar,John Mac,55,2178,3,1.25,6534,2722.5,3811.5,06-01-11,6,June,2011
+Germany,Borno State,Osogbo,Sugar,Davis ren,37,888,3,1.25,2664,1110,1554,06-01-99,6,June,1999
+France,Cross River State,Owerri,Sugar,Karen Dove,50,2151,3,1.25,6453,2688.75,3764.25,09-01-16,9,September,2016
+Canada,Delta State,Owo,Sugar,Bayo Cum,45,1817,3,1.25,5451,2271.25,3179.75,12-01-15,12,December,2015
+Canada,Edo State,Oyo,Sugar,Shola Wales,48,1326,3,1.25,3978,1657.5,2320.5,03-01-15,3,March,2015
+Germany,Enugu State,Aba,Sugar,Alade Dren,39,263,3,1.25,789,328.75,460.25,03-01-11,3,March,2011
+Canada,Jigawa State,Abakaliki,Sugar,Fatai Maly,50,943.5,3,1.25,2830.5,1179.38,1651.13,04-01-99,4,April,1999
+United States,Kaduna State,Abuja,Sugar,Francis Dayo,31,727,3,1.25,2181,908.75,1272.25,06-01-03,6,June,2003
+France,Kano State,Ado Ekiti,Sugar,Idowu Johnson,24,787,3,1.25,2361,983.75,1377.25,06-01-06,6,June,2006
+Germany,Kebbi State,Akure,Sugar,Abayo Tyler,24,986,3,1.25,2958,1232.5,1725.5,09-01-15,9,September,2015
+Mexico,Kwara State,Asaba,Sugar,John Mac,55,1397,3,1.25,4191,1746.25,2444.75,10-01-17,10,October,2017
+France,Lagos State,Awka,Sugar,Davis ren,37,1744,3,1.25,5232,2180,3052,11-01-02,11,November,2002
+Mexico,mo State,Bauchi,Sugar,Karen Dove,50,662,3,1.25,1986,827.5,1158.5,06-01-08,6,June,2008
+Germany,Nasarawa State,Benin City,Sugar,Bayo Cum,45,2877,3,1.25,8631,3596.25,5034.75,10-01-11,10,October,2011
+Canada,Niger State,Bida,Sugar,Shola Wales,48,2729,3,1.25,8187,3411.25,4775.75,12-01-17,12,December,2017
+United States,Ogun State,Buguma,Sugar,Alade Dren,39,2844,3,1.25,8532,3555,4977,02-01-16,2,February,2016
+Mexico,Ondo State,Calabar,Sugar,Fatai Maly,50,1916,3,1.25,5748,2395,3353,04-01-03,4,April,2003
+Germany,Osun State,Gombe,Sugar,Francis Dayo,31,1570,3,1.25,4710,1962.5,2747.5,06-01-09,6,June,2009
+Canada,Oyo State,Gusau,Sugar,Idowu Johnson,24,1874,3,1.25,5622,2342.5,3279.5,08-01-99,8,August,1999
+Mexico,Rivers State,Ibadan,Sugar,Abayo Tyler,24,1642,3,1.25,4926,2052.5,2873.5,08-01-11,8,August,2011
+Germany,Abia State,Ife,Sugar,Davis ren,37,2479,3,1.25,7437,3098.75,4338.25,01-01-08,1,January,2008
+France,Adamawa State,Ikare,Sugar,Francis Dayo,31,866,3,1.25,2598,1082.5,1515.5,05-01-02,5,May,2002
+France,Akwa Ibom State,Ikeja,Sugar,Francis Dayo,31,2177,3,1.25,6531,2721.25,3809.75,10-01-06,10,October,2006
+Mexico,Anambra State,Ikot Ekpene,Sugar,Karen Dove,50,2689,3,1.25,8067,3361.25,4705.75,10-01-10,10,October,2010
+United States,Bauchi State,Ilesa,Sugar,John Mac,55,2663,3,1.25,7989,3328.75,4660.25,12-01-07,12,December,2007
+United States,Borno State,Iseyin,Sugar,Francis Dayo,31,570,3,1.25,1710,712.5,997.5,12-01-10,12,December,2010
+France,Cross River State,Iwo,Sugar,Fatai Maly,50,2487,3,1.25,7461,3108.75,4352.25,12-01-08,12,December,2008
+Canada,Delta State,Jalingo,Sugar,John Mac,55,2844,3,1.25,8532,3555,4977,06-01-15,6,June,2015
+Mexico,Edo State,Jos,Sugar,John Mac,55,1498,3,1.25,4494,1872.5,2621.5,06-01-03,6,June,2003
+United States,Enugu State,Kano,Sugar,Davis ren,37,1153,3,1.25,3459,1441.25,2017.75,10-01-99,10,October,1999
+France,Jigawa State,Katsina,Sugar,Karen Dove,50,1738.5,3,1.25,5215.5,2173.13,3042.38,04-01-03,4,April,2003
+Canada,Kaduna State,Lafia,Sugar,Bayo Cum,45,1582,3,1.25,4746,1977.5,2768.5,12-01-10,12,December,2010
+Canada,Kano State,Lagos,Sugar,Shola Wales,48,3244.5,3,1.25,9733.5,4055.63,5677.88,01-01-10,1,January,2010
+France,Kebbi State,Maiduguri,Sugar,Alade Dren,39,959,3,1.25,2877,1198.75,1678.25,02-01-14,2,February,2014
+Mexico,Kwara State,Makurdi,Sugar,Fatai Maly,50,2747,3,1.25,8241,3433.75,4807.25,02-01-17,2,February,2017
+France,Lagos State,Minna,Sugar,Francis Dayo,31,574.5,3,1.25,1723.5,718.13,1005.38,04-01-06,4,April,2006
+Germany,mo State,Nnewi,Sugar,Idowu Johnson,24,2338,3,1.25,7014,2922.5,4091.5,06-01-20,6,June,2020
+France,Nasarawa State,Nsukka,Sugar,Abayo Tyler,24,381,3,1.25,1143,476.25,666.75,08-01-02,8,August,2002
+Germany,Niger State,Ogbomosho,Sugar,John Mac,55,422,3,1.25,1266,527.5,738.5,08-01-20,8,August,2020
+Canada,Ogun State,Okene,Sugar,Davis ren,37,2134,3,1.25,6402,2667.5,3734.5,09-01-04,9,September,2004
+United States,Ondo State,Ondo,Sugar,Karen Dove,50,436.5,3,1.25,1309.5,545.63,763.88,07-01-03,7,July,2003
+United States,Osun State,Onitsha,Sugar,Bayo Cum,45,1956,3,1.25,5868,2445,3423,01-01-01,1,January,2001
+Germany,Oyo State,Osogbo,Sugar,Shola Wales,48,2659,3,1.25,7977,3323.75,4653.25,02-01-00,2,February,2000
+United States,Rivers State,Owerri,Sugar,Alade Dren,39,1351.5,3,1.25,4054.5,1689.38,2365.13,04-01-99,4,April,1999
+Germany,Abia State,Owo,Sugar,Fatai Maly,50,880,3,1.25,2640,1100,1540,05-01-03,5,May,2003
+United States,Adamawa State,Oyo,Sugar,Francis Dayo,31,1867,3,1.25,5601,2333.75,3267.25,09-01-04,9,September,2004
+France,Akwa Ibom State,Aba,Sugar,Idowu Johnson,24,1227,3,1.25,3681,1533.75,2147.25,10-01-15,10,October,2015
+Mexico,Anambra State,Abakaliki,Sugar,Abayo Tyler,24,877,3,1.25,2631,1096.25,1534.75,11-01-05,11,November,2005
+Germany,Bauchi State,Abuja,Sugar,Davis ren,37,360,3,1.25,1080,450,630,10-01-10,10,October,2010
+Mexico,Borno State,Ado Ekiti,Sugar,Francis Dayo,31,521,3,1.25,1563,651.25,911.75,12-01-17,12,December,2017
+Mexico,Cross River State,Akure,Sugar,Francis Dayo,31,341,3,1.25,1023,426.25,596.75,05-01-03,5,May,2003
+Mexico,Delta State,Asaba,Sugar,Karen Dove,50,641,3,1.25,1923,801.25,1121.75,07-01-03,7,July,2003
+United States,Edo State,Awka,Sugar,John Mac,55,2807,3,1.25,8421,3508.75,4912.25,08-01-17,8,August,2017
+Mexico,Enugu State,Bauchi,Sugar,Francis Dayo,31,432,3,1.25,1296,540,756,09-01-12,9,September,2012
+Canada,Jigawa State,Benin City,Sugar,Fatai Maly,50,2529,3,1.25,7587,3161.25,4425.75,11-01-08,11,November,2008
+United States,Kaduna State,Bida,Sugar,John Mac,55,1579,3,1.25,4737,1973.75,2763.25,03-01-00,3,March,2000
+France,Kano State,Buguma,Sugar,John Mac,55,1734,3,1.25,5202,2167.5,3034.5,01-01-07,1,January,2007
+Mexico,Kebbi State,Calabar,Sugar,Davis ren,37,554,3,1.25,1662,692.5,969.5,01-01-99,1,January,1999
+Canada,Kwara State,Gombe,Sugar,Karen Dove,50,2109,3,1.25,6327,2636.25,3690.75,05-01-20,5,May,2020
+France,Lagos State,Gusau,Sugar,Bayo Cum,45,3874.5,3,1.25,11623.5,4843.13,6780.38,07-01-00,7,July,2000
+United States,mo State,Ibadan,Sugar,Shola Wales,48,986,3,1.25,2958,1232.5,1725.5,10-01-10,10,October,2010
+United States,Nasarawa State,Ife,Sugar,Alade Dren,39,2387,3,1.25,7161,2983.75,4177.25,11-01-19,11,November,2019
+Mexico,Niger State,Ikare,Sugar,Fatai Maly,50,1233,3,1.25,3699,1541.25,2157.75,12-01-04,12,December,2004
+France,Ogun State,Ikeja,Sugar,Francis Dayo,31,1491,3,1.25,4473,1863.75,2609.25,03-01-02,3,March,2002
+Germany,Ondo State,Ikot Ekpene,Sugar,Idowu Johnson,24,1531,3,1.25,4593,1913.75,2679.25,12-01-11,12,December,2011
+United States,Osun State,Ilesa,Sugar,Abayo Tyler,24,2567,3,1.25,7701,3208.75,4492.25,06-01-08,6,June,2008
+Canada,Oyo State,Iseyin,Sugar,John Mac,55,1583,3,1.25,4749,1978.75,2770.25,06-01-03,6,June,2003
+Canada,Rivers State,Iwo,Sugar,Davis ren,37,1565,3,1.25,4695,1956.25,2738.75,10-01-16,10,October,2016
+Germany,Abia State,Jalingo,Sugar,Karen Dove,50,280,3,1.25,840,350,490,12-01-20,12,December,2020
+Mexico,Adamawa State,Jos,Sugar,Bayo Cum,45,2903,3,1.25,8709,3628.75,5080.25,03-01-15,3,March,2015
+United States,Akwa Ibom State,Kano,Sugar,Shola Wales,48,2541,3,1.25,7623,3176.25,4446.75,08-01-00,8,August,2000
+Canada,Anambra State,Katsina,Sugar,Alade Dren,39,1496,3,1.25,4488,1870,2618,10-01-02,10,October,2002
+United States,Bauchi State,Lafia,Sugar,Fatai Maly,50,1010,3,1.25,3030,1262.5,1767.5,10-01-17,10,October,2017
+Canada,Borno State,Lagos,Sugar,Francis Dayo,31,865.5,3,1.25,2596.5,1081.88,1514.63,07-01-07,7,July,2007
+Germany,Cross River State,Maiduguri,Sugar,Idowu Johnson,24,492,3,1.25,1476,615,861,07-01-16,7,July,2016
+Germany,Delta State,Makurdi,Sugar,Abayo Tyler,24,1175,3,1.25,3525,1468.75,2056.25,10-01-06,10,October,2006
+Germany,Edo State,Minna,Sugar,Davis ren,37,552,3,1.25,1656,690,966,11-01-14,11,November,2014
+France,Enugu State,Nnewi,Sugar,Francis Dayo,31,293,3,1.25,879,366.25,512.75,12-01-03,12,December,2003
+United States,Jigawa State,Nsukka,Sugar,Francis Dayo,31,1806,3,1.25,5418,2257.5,3160.5,05-01-06,5,May,2006
+Mexico,Kaduna State,Ogbomosho,White Chocolate Macadamia Nut,Karen Dove,50,1493,6,2.75,8958,4105.75,4852.25,01-01-00,1,January,2000
+France,Kano State,Okene,White Chocolate Macadamia Nut,John Mac,55,1804,6,2.75,10824,4961,5863,02-01-12,2,February,2012
+Germany,Kebbi State,Ondo,White Chocolate Macadamia Nut,Francis Dayo,31,2161,6,2.75,12966,5942.75,7023.25,03-01-09,3,March,2009
+Germany,Kwara State,Onitsha,White Chocolate Macadamia Nut,Fatai Maly,50,1006,6,2.75,6036,2766.5,3269.5,06-01-19,6,June,2019
+Germany,Lagos State,Osogbo,White Chocolate Macadamia Nut,John Mac,55,1545,6,2.75,9270,4248.75,5021.25,06-01-20,6,June,2020
+United States,mo State,Owerri,White Chocolate Macadamia Nut,John Mac,55,2821,6,2.75,16926,7757.75,9168.25,08-01-16,8,August,2016
+France,Nasarawa State,Owo,White Chocolate Macadamia Nut,Davis ren,37,639,6,2.75,3834,1757.25,2076.75,11-01-17,11,November,2017
+France,Niger State,Oyo,White Chocolate Macadamia Nut,Karen Dove,50,3864,6,2.75,23184,10626,12558,04-01-17,4,April,2017
+Mexico,Ogun State,Aba,White Chocolate Macadamia Nut,Bayo Cum,45,362,6,2.75,2172,995.5,1176.5,05-01-17,5,May,2017
+Canada,Ondo State,Abakaliki,White Chocolate Macadamia Nut,Shola Wales,48,923,6,2.75,5538,2538.25,2999.75,08-01-01,8,August,2001
+United States,Osun State,Abuja,White Chocolate Macadamia Nut,Alade Dren,39,1566,6,2.75,9396,4306.5,5089.5,10-01-02,10,October,2002
+Germany,Oyo State,Ado Ekiti,White Chocolate Macadamia Nut,Fatai Maly,50,2877,6,2.75,17262,7911.75,9350.25,10-01-19,10,October,2019
+France,Rivers State,Akure,White Chocolate Macadamia Nut,Francis Dayo,31,1055,6,2.75,6330,2901.25,3428.75,12-01-12,12,December,2012
+Mexico,Abia State,Asaba,White Chocolate Macadamia Nut,Idowu Johnson,24,1084,6,2.75,6504,2981,3523,12-01-07,12,December,2007
+Canada,Adamawa State,Awka,White Chocolate Macadamia Nut,Abayo Tyler,24,2009,6,2.75,12054,5524.75,6529.25,10-01-03,10,October,2003
+Canada,Akwa Ibom State,Bauchi,White Chocolate Macadamia Nut,John Mac,55,3850.5,6,2.75,23103,10588.88,12514.13,04-01-17,4,April,2017
+United States,Anambra State,Benin City,White Chocolate Macadamia Nut,Davis ren,37,1465,6,2.75,8790,4028.75,4761.25,03-01-18,3,March,2018
+France,Bauchi State,Bida,White Chocolate Macadamia Nut,Karen Dove,50,2177,6,2.75,13062,5986.75,7075.25,10-01-05,10,October,2005
+Canada,Borno State,Buguma,White Chocolate Macadamia Nut,Bayo Cum,45,2431,6,2.75,14586,6685.25,7900.75,12-01-15,12,December,2015
+United States,Cross River State,Calabar,White Chocolate Macadamia Nut,Shola Wales,48,555,6,2.75,3330,1526.25,1803.75,01-01-18,1,January,2018
+Mexico,Delta State,Gombe,White Chocolate Macadamia Nut,Alade Dren,39,2861,6,2.75,17166,7867.75,9298.25,01-01-13,1,January,2013
+Germany,Edo State,Gusau,White Chocolate Macadamia Nut,Fatai Maly,50,807,6,2.75,4842,2219.25,2622.75,02-01-11,2,February,2011
+United States,Enugu State,Ibadan,White Chocolate Macadamia Nut,Francis Dayo,31,602,6,2.75,3612,1655.5,1956.5,06-01-08,6,June,2008
+United States,Jigawa State,Ife,White Chocolate Macadamia Nut,Idowu Johnson,24,2832,6,2.75,16992,7788,9204,08-01-05,8,August,2005
+France,Kaduna State,Ikare,White Chocolate Macadamia Nut,Abayo Tyler,24,1579,6,2.75,9474,4342.25,5131.75,08-01-02,8,August,2002
+United States,Kano State,Ikeja,White Chocolate Macadamia Nut,Davis ren,37,861,6,2.75,5166,2367.75,2798.25,10-01-08,10,October,2008
+Germany,Kebbi State,Ikot Ekpene,White Chocolate Macadamia Nut,Francis Dayo,31,1250,6,2.75,7500,3437.5,4062.5,12-01-06,12,December,2006
+Canada,Kwara State,Ilesa,White Chocolate Macadamia Nut,Francis Dayo,31,952,6,2.75,5712,2618,3094,02-01-18,2,February,2018
+United States,Lagos State,Iseyin,White Chocolate Macadamia Nut,Karen Dove,50,2755,6,2.75,16530,7576.25,8953.75,02-01-11,2,February,2011
+Germany,mo State,Iwo,White Chocolate Macadamia Nut,John Mac,55,1530,6,2.75,9180,4207.5,4972.5,05-01-18,5,May,2018
+France,Nasarawa State,Jalingo,White Chocolate Macadamia Nut,Francis Dayo,31,1496,6,2.75,8976,4114,4862,06-01-00,6,June,2000
+Mexico,Niger State,Jos,White Chocolate Macadamia Nut,Fatai Maly,50,1498,6,2.75,8988,4119.5,4868.5,06-01-20,6,June,2020
+Germany,Ogun State,Kano,White Chocolate Macadamia Nut,John Mac,55,1001,6,2.75,6006,2752.75,3253.25,08-01-18,8,August,2018
+Mexico,Ondo State,Katsina,White Chocolate Macadamia Nut,John Mac,55,1333,6,2.75,7998,3665.75,4332.25,11-01-06,11,November,2006
+Canada,Osun State,Lafia,White Chocolate Macadamia Nut,Davis ren,37,1262,6,2.75,7572,3470.5,4101.5,05-01-02,5,May,2002
+Canada,Oyo State,Lagos,White Chocolate Macadamia Nut,Karen Dove,50,1135,6,2.75,6810,3121.25,3688.75,06-01-18,6,June,2018
+United States,Rivers State,Maiduguri,White Chocolate Macadamia Nut,Bayo Cum,45,547,6,2.75,3282,1504.25,1777.75,11-01-19,11,November,2019
+Canada,Abia State,Makurdi,White Chocolate Macadamia Nut,Shola Wales,48,1582,6,2.75,9492,4350.5,5141.5,12-01-99,12,December,1999
+France,Adamawa State,Minna,White Chocolate Macadamia Nut,Alade Dren,39,1659,6,2.75,9954,4562.25,5391.75,07-01-12,7,July,2012
+Mexico,Akwa Ibom State,Nnewi,White Chocolate Macadamia Nut,Fatai Maly,50,609,6,2.75,3654,1674.75,1979.25,08-01-06,8,August,2006
+Germany,Anambra State,Nsukka,White Chocolate Macadamia Nut,Francis Dayo,31,2087,6,2.75,12522,5739.25,6782.75,09-01-20,9,September,2020
+France,Bauchi State,Ogbomosho,White Chocolate Macadamia Nut,Idowu Johnson,24,1976,6,2.75,11856,5434,6422,10-01-06,10,October,2006
+United States,Borno State,Okene,White Chocolate Macadamia Nut,Abayo Tyler,24,1372,6,2.75,8232,3773,4459,12-01-05,12,December,2005
+Canada,Cross River State,Ondo,White Chocolate Macadamia Nut,John Mac,55,598,6,2.75,3588,1644.5,1943.5,03-01-04,3,March,2004
+United States,Delta State,Onitsha,White Chocolate Macadamia Nut,Davis ren,37,2907,6,2.75,17442,7994.25,9447.75,06-01-03,6,June,2003
+Germany,Edo State,Osogbo,White Chocolate Macadamia Nut,Karen Dove,50,2338,6,2.75,14028,6429.5,7598.5,06-01-06,6,June,2006
+Mexico,Enugu State,Owerri,White Chocolate Macadamia Nut,Bayo Cum,45,635,6,2.75,3810,1746.25,2063.75,12-01-16,12,December,2016
+Mexico,Jigawa State,Owo,White Chocolate Macadamia Nut,Shola Wales,48,245,6,2.75,1470,673.75,796.25,05-01-15,5,May,2015
+Canada,Kaduna State,Oyo,White Chocolate Macadamia Nut,Alade Dren,39,3793.5,6,2.75,22761,10432.13,12328.88,07-01-06,7,July,2006
+Germany,Kano State,Aba,White Chocolate Macadamia Nut,Fatai Maly,50,1307,6,2.75,7842,3594.25,4247.75,07-01-11,7,July,2011
+Canada,Kebbi State,Abakaliki,White Chocolate Macadamia Nut,Francis Dayo,31,567,6,2.75,3402,1559.25,1842.75,09-01-20,9,September,2020
+Mexico,Kwara State,Abuja,White Chocolate Macadamia Nut,Idowu Johnson,24,2110,6,2.75,12660,5802.5,6857.5,09-01-13,9,September,2013
+Canada,Lagos State,Ado Ekiti,White Chocolate Macadamia Nut,Abayo Tyler,24,1269,6,2.75,7614,3489.75,4124.25,10-01-01,10,October,2001
+France,mo State,Akure,White Chocolate Macadamia Nut,Davis ren,37,1967,6,2.75,11802,5409.25,6392.75,03-01-17,3,March,2017
+Mexico,Nasarawa State,Asaba,White Chocolate Macadamia Nut,Francis Dayo,31,2628,6,2.75,15768,7227,8541,04-01-19,4,April,2019
+Germany,Niger State,Awka,White Chocolate Macadamia Nut,Francis Dayo,31,681,6,2.75,4086,1872.75,2213.25,01-01-17,1,January,2017
+Germany,Ogun State,Bauchi,White Chocolate Macadamia Nut,Karen Dove,50,510,6,2.75,3060,1402.5,1657.5,04-01-13,4,April,2013
+United States,Ondo State,Benin City,White Chocolate Macadamia Nut,John Mac,55,790,6,2.75,4740,2172.5,2567.5,05-01-04,5,May,2004
+France,Osun State,Bida,White Chocolate Macadamia Nut,Francis Dayo,31,639,6,2.75,3834,1757.25,2076.75,07-01-12,7,July,2012
+United States,Oyo State,Buguma,White Chocolate Macadamia Nut,Fatai Maly,50,1596,6,2.75,9576,4389,5187,09-01-99,9,September,1999
+Germany,Rivers State,Calabar,White Chocolate Macadamia Nut,John Mac,55,241,6,2.75,1446,662.75,783.25,10-01-06,10,October,2006
+Germany,Abia State,Gombe,White Chocolate Macadamia Nut,John Mac,55,2665,6,2.75,15990,7328.75,8661.25,11-01-20,11,November,2020
+France,Adamawa State,Gusau,White Chocolate Macadamia Nut,Davis ren,37,853,6,2.75,5118,2345.75,2772.25,12-01-11,12,December,2011
+Canada,Akwa Ibom State,Ibadan,White Chocolate Macadamia Nut,Karen Dove,50,384,6,2.75,2304,1056,1248,01-01-05,1,January,2005
+Germany,Anambra State,Ife,White Chocolate Macadamia Nut,Bayo Cum,45,472,6,2.75,2832,1298,1534,10-01-10,10,October,2010
+Canada,Bauchi State,Ikare,White Chocolate Macadamia Nut,Shola Wales,48,1808,6,2.75,10848,4972,5876,11-01-14,11,November,2014
+Mexico,Borno State,Ikeja,White Chocolate Macadamia Nut,Alade Dren,39,1395,6,2.75,8370,3836.25,4533.75,07-01-16,7,July,2016
+United States,Cross River State,Ikot Ekpene,White Chocolate Macadamia Nut,Fatai Maly,50,986,6,2.75,5916,2711.5,3204.5,10-01-00,10,October,2000
+Mexico,Delta State,Ilesa,White Chocolate Macadamia Nut,Francis Dayo,31,905,6,2.75,5430,2488.75,2941.25,10-01-06,10,October,2006
+France,Edo State,Iseyin,White Chocolate Macadamia Nut,Idowu Johnson,24,3997.5,6,2.75,23985,10993.13,12991.88,01-01-19,1,January,2019
+Canada,Enugu State,Iwo,White Chocolate Macadamia Nut,Abayo Tyler,24,2632,6,2.75,15792,7238,8554,06-01-19,6,June,2019
+France,Jigawa State,Jalingo,White Chocolate Macadamia Nut,John Mac,55,1190,6,2.75,7140,3272.5,3867.5,06-01-01,6,June,2001
+Mexico,Kaduna State,Jos,White Chocolate Macadamia Nut,Davis ren,37,604,6,2.75,3624,1661,1963,06-01-17,6,June,2017
+Mexico,Kano State,Kano,White Chocolate Macadamia Nut,Karen Dove,50,410,6,2.75,2460,1127.5,1332.5,10-01-17,10,October,2017
+Germany,Kebbi State,Katsina,White Chocolate Macadamia Nut,Bayo Cum,45,1013,6,2.75,6078,2785.75,3292.25,12-01-05,12,December,2005
+Mexico,Kwara State,Lafia,White Chocolate Macadamia Nut,Shola Wales,48,1575,6,2.75,9450,4331.25,5118.75,02-01-20,2,February,2020
+United States,Lagos State,Lagos,White Chocolate Macadamia Nut,Alade Dren,39,606,6,2.75,3636,1666.5,1969.5,04-01-06,4,April,2006
+United States,mo State,Maiduguri,White Chocolate Macadamia Nut,Fatai Maly,50,2460,6,2.75,14760,6765,7995,07-01-10,7,July,2010
+Mexico,Nasarawa State,Makurdi,White Chocolate Macadamia Nut,Francis Dayo,31,500,6,2.75,3000,1375,1625,03-01-01,3,March,2001
+France,Niger State,Minna,White Chocolate Macadamia Nut,Idowu Johnson,24,2826,6,2.75,16956,7771.5,9184.5,05-01-09,5,May,2009
+France,Ogun State,Nnewi,White Chocolate Macadamia Nut,Abayo Tyler,24,663,6,2.75,3978,1823.25,2154.75,09-01-17,9,September,2017
+United States,Ondo State,Nsukka,White Chocolate Macadamia Nut,Davis ren,37,914,6,2.75,5484,2513.5,2970.5,12-01-05,12,December,2005

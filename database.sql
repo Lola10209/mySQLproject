@@ -1,0 +1,1 @@
+SELECT * FROM coke_db.workers
